@@ -1,4 +1,4 @@
-# CursoDA_IEEE 📊
+# CursoDataAnalysis-IEEE 📊
 
 Welcome to the **CursoDA_IEEE** repository! This project contains Google Colab notebooks with exercises from a data analysis course conducted by IEEE. The notebooks primarily utilize **Pandas** for data manipulation and **Matplotlib** for data visualization.
 
